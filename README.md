@@ -46,6 +46,7 @@ To view the full license, visit:
 3. Open either notebook in Jupyter or Colab:
    - `dogs_breed_identification_pytorch_inception_v3.ipynb`
    - `dogs_breed_identification_pytorch_mnasnet_a_1_3.ipynb`
+   
    The dataset will be downloaded automatically when the notebook runs.
 
 ---
