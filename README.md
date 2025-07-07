@@ -4,7 +4,7 @@ This project reproduces and adapts the methodology from the paper
 **"Dog Breed Identification Using Deep Learning"** (SISY 2018 – Ráduly et al.) using modern tools in PyTorch.
 
 It uses **transfer learning** with two pretrained models — **Inception-V3** and **MnasNet-A1.3** — to classify 120 dog breeds from the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/).  
-The notebook includes preprocessing, data augmentation, model fine-tuning, and evaluation using top-1 accuracy.
+The notebooks includes preprocessing, data augmentation, model fine-tuning, and evaluation using top-k accuracy.
 
 ---
 
